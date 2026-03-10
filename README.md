@@ -16,4 +16,4 @@ School project for CSC 322 - Introduction to Computer Graphics
 
 # Files
 - Full Blender project file - avaiable here: https://drive.google.com/file/d/1Ae5MKPnyp97rYh0W4NGTTeyZ5VieVEzs/view?usp=drive_link
-- CSC322finalAnimationGitHub.mp4 - final redered animation
+- ![file](CSC322finalAnimationGitHub.mp4) - final redered animation
