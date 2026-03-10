@@ -1,7 +1,7 @@
 # 3D-Photogrammetric-Teapot-Animation
 
 # Demo 
-TeapotAnimationGIF.gif
+![Teapot Animation](TeapotAnimationGIF.gif)
 
 # Description
 A 20-second animation of a real-world teacup created using photogrammetry with PolyCam and animation with Blender.
